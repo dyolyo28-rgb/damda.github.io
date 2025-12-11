@@ -870,9 +870,7 @@ footer {
 }
 
 @media (max-width: 768px) {
-    .nav-menu {
-        display: none;
-    }
+
     
     .main-title, .archive-title, .picnic-header h2, .daily-header h2, .guide-header h2, .text-group h1 {
         font-size: 28px !important;
@@ -910,4 +908,5 @@ footer {
     .description, .intro-text, .card-desc {
         font-size: 14px;
     }
+
 }
